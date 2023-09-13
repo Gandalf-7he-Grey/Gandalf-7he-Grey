@@ -5,7 +5,7 @@ has journeyed from the Old World (GNU) to the new, bringing with me the wisdom
 of open-source magic. My passions lie in hacking, Linux, and cybersecurity, and
 like Gandalf of Middle-earth, I embark on digital quests with a diverse group.
 
-### Navigating the Linux Shire with Companions
+## Navigating the Linux Shire with Companions
 
 
 
