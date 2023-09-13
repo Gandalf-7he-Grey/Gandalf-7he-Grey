@@ -7,14 +7,14 @@ like Gandalf of Middle-earth, I embark on digital quests with a diverse group.
 
 ### Navigating the Linux Shire with Companions
 
-----------------------------------------
+
 
 In my quest, I traverse the Linux Shire with like-minded companions, akin to the
 Fellowship of the Ring. Frodo safeguards digital realms, Aragorn defends against
 the Digital Dark Lord, Legolas shoots precise code arrows, and Gimli fortifies
 our digital strongholds with open-source wisdom.
 
-----------------------------------------
+
 
 ## Digital Battles and Open Source Wisdom
 
