@@ -1,4 +1,7 @@
-# Gandalf - Open Source Wizard 🧙‍♂️
+# Gandalf - Open Source Wizard 🧙‍♂️ 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/HorsemanKrieg.png" alt="TryHackMe">
+
 
 Greetings, fellow adventurers of the digital realm! I am Gandalf, a wizard who
 has journeyed from the Old World (GNU) to the new, bringing with me the wisdom
