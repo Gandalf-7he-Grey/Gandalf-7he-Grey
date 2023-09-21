@@ -1,6 +1,7 @@
 # Gandalf - Open Source Wizard 🧙‍♂️ 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/HorsemanKrieg.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1364770"></script>
+
 
 
 Greetings, fellow adventurers of the digital realm! I am Gandalf, a wizard who
