@@ -1,6 +1,6 @@
 # Gandalf - Open Source Wizard 🧙‍♂️ 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/GandalfTheGrey.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/TRush.png" alt="Your Image Badge" />
 
 
 
